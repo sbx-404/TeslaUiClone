@@ -33,7 +33,7 @@ function Section({
             {btnTwo && <ButtonTwo>{btnTwo}</ButtonTwo>}
           </ButtonGroups>
         </Fade>
-        {DownArrows && <DownArrow src="/public/images/down-arrow.svg" />}
+        {DownArrows && <DownArrow src="/images/down-arrow.svg" />}
       </Buttons>
     </Wrapper>
   );

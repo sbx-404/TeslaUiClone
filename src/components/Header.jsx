@@ -15,7 +15,7 @@ console.log(activeMenu)
   return (
     <Container>
       <a>
-        <img src="/public/images/logo.svg" alt="" />
+        <img src="/images/logo.svg" alt="" />
       </a>
     <Menu>
       {cars?.map((items,index) => ( <a href="#" key={index}>{items}</a>))}

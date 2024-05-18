@@ -12,7 +12,7 @@ function Home() {
         heroText={"From $299/mo¹ Lease After Est. Gas Savings"}
         btnOne={"Order Now"}
         btnTwo={"Demo Drive"}
-        backgroundImg={"/public/images/model-y.jpg"}
+        backgroundImg={"/images/model-y.jpg"}
       />
       <Section
         heading={"Model 3"}
@@ -20,7 +20,7 @@ function Home() {
         heroText={"After $83/mo Est. Savings"}
         btnOne={"Order Now"}
         btnTwo={"Demo Drive"}
-        backgroundImg={"/public/images/model-3.jpg"}
+        backgroundImg={"/images/model-3.jpg"}
       />
       <Section
         heading={"Model X"}
@@ -28,7 +28,7 @@ function Home() {
         heroText={"After Federal Tax Credit & Est. Gas Savings"}
         btnOne={"Order Now"}
         btnTwo={"Demo Drive"}
-        backgroundImg={"/public/images/model-x.jpg"}
+        backgroundImg={"/images/model-x.jpg"}
       />
       <Section
         heading={"Model S"}
@@ -36,7 +36,7 @@ function Home() {
         heroText={"After Est. Gas Savings"}
         btnOne={"Order Now"}
         btnTwo={"Demo Drive"}
-        backgroundImg={"/public/images/model-s.jpg"}
+        backgroundImg={"/images/model-s.jpg"}
       />
       <Section
         heading={"Solar Panels"}
@@ -44,7 +44,7 @@ function Home() {
         heroText={""}
         btnOne={"Order Now"}
         btnTwo={"Learn More"}
-        backgroundImg={"/public/images/solar-panel.jpg"}
+        backgroundImg={"/images/solar-panel.jpg"}
       />
       <Section
         heading={"Solar Roof"}
@@ -52,14 +52,14 @@ function Home() {
         heroText={"Produce Clean Energy From Your Roof "}
         btnOne={"Order Now"}
         btnTwo={"Learn More"}
-        backgroundImg={"/public/images/solar-roof.jpg"}
+        backgroundImg={"/images/solar-roof.jpg"}
       />
       <Section
         heading={"Solar Roof"}
         textOne={""}
         heroText={"Produce Clean Energy From Your Roof "}
         btnOne={"Order Now"}
-        backgroundImg={"/public/images/accessoriess.avif"}
+        backgroundImg={"/images/accessoriess.avif"}
       />
 
     </Container>
